@@ -1,0 +1,18 @@
+el primer proyecto que vamos a construir es una cita, un generador
+agregamos algunas funciones interesantes aquí, pero también la 
+posibilidad de twittear una cita.
+
+generador aleatorio de citas.solicitud de recuperación asincrónica para detener la API
+(interfaz de programación de aplicaciones) para obtener nuestras cotizaciones.
+agregar un fondo de vector de patrones,fuente personalizada de Google.
+el primero es un nuevo botón de cotización, ver que tenemos un cargador 
+que se carga entre cotizaciones. la idea es que cuando esto tarda mucho en 
+cargarse, a veces quiere indicarle al usuario que algo está sucediendo detrás 
+de escena, incluso si no puede verlo allí mismo. Y el otro botón que tenemos 
+es un botón de twitter. si estuviéramos conectados, nos permitirá tuitear 
+usando este botón.lo último cuando se muestra un programa es que este proyecto 
+también responde a dispositivos móviles, por lo que podemos ver que tenemos 
+un píxel para sobresalir.El tamaño es aproximadamente el tamaño de la mayoría
+de los teléfonos inteligentes grandes.Y puede ver que nuestro contenedor de 
+cotización se ajusta al tamaño de la pantalla Y tiene un pequeño margen 
+en ambos lados.
